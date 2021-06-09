@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<images>
+  <image file='TreinoPlacas\0.jpg'>
+    <box top='364' left='859' width='335' height='183'/>
+  </image>
+  <image file='TreinoPlacas\10.jpg'>
+    <box top='337' left='326' width='389' height='226'/>
+  </image>
+  <image file='TreinoPlacas\14.jpg'>
+    <box top='439' left='272' width='277' height='214'/>
+  </image>
+  <image file='TreinoPlacas\15.jpg'>
+    <box top='393' left='262' width='424' height='226'/>
+  </image>
+  <image file='TreinoPlacas\16.jpg'>
+    <box top='386' left='284' width='415' height='170'/>
+  </image>
+  <image file='TreinoPlacas\17.jpg'>
+    <box top='378' left='394' width='480' height='191'/>
+  </image>
+  <image file='TreinoPlacas\19.jpg'>
+    <box top='452' left='589' width='315' height='107'/>
+  </image>
+  <image file='TreinoPlacas\20.jpg'>
+    <box top='458' left='509' width='305' height='99'/>
+  </image>
+  <image file='TreinoPlacas\22.jpg'>
+    <box top='503' left='622' width='297' height='117'/>
+  </image>
+  <image file='TreinoPlacas\23.jpg'>
+    <box top='52' left='384' width='701' height='236'/>
+    <box top='299' left='8' width='713' height='244'/>
+    <box top='302' left='763' width='709' height='237'/>
+    <box top='559' left='758' width='713' height='235'/>
+    <box top='564' left='7' width='708' height='228'/>
+  </image>
+  <image file='TreinoPlacas\24.jpg'>
+    <box top='93' left='274' width='948' height='617'/>
+  </image>
+  <image file='TreinoPlacas\25.jpg'>
+    <box top='637' left='637' width='316' height='99'/>
+  </image>
+  <image file='TreinoPlacas\27.jpg'>
+    <box top='123' left='303' width='899' height='537'/>
+  </image>
+  <image file='TreinoPlacas\28.jpg'>
+    <box top='446' left='800' width='642' height='219'/>
+  </image>
+  <image file='TreinoPlacas\29.jpg'>
+    <box top='427' left='456' width='517' height='247'/>
+  </image>
+  <image file='TreinoPlacas\3.jpg'>
+    <box top='379' left='740' width='242' height='168'/>
+  </image>
+  <image file='TreinoPlacas\30.jpg'>
+    <box top='312' left='406' width='655' height='226'/>
+  </image>
+  <image file='TreinoPlacas\32.jpg'>
+    <box top='272' left='371' width='497' height='157'/>
+    <box top='117' left='364' width='514' height='151'/>
+    <box top='97' left='884' width='502' height='167'/>
+    <box top='415' left='909' width='527' height='166'/>
+    <box top='433' left='382' width='516' height='146'/>
+    <box top='612' left='383' width='516' height='145'/>
+    <box top='595' left='932' width='522' height='145'/>
+  </image>
+  <image file='TreinoPlacas\33.jpg'>
+    <box top='225' left='228' width='1127' height='455'/>
+  </image>
+  <image file='TreinoPlacas\34.jpg'>
+    <box top='365' left='537' width='396' height='157'/>
+  </image>
+  <image file='TreinoPlacas\35.jpg'>
+    <box top='113' left='13' width='275' height='94'/>
+    <box top='210' left='113' width='280' height='88'/>
+  </image>
+  <image file='TreinoPlacas\36.jpg'>
+    <box top='582' left='630' width='598' height='163'/>
+  </image>
+  <image file='TreinoPlacas\37.jpg'>
+    <box top='318' left='359' width='94' height='39'/>
+  </image>
+  <image file='TreinoPlacas\38.jpg'>
+    <box top='314' left='373' width='999' height='293'/>
+  </image>
+  <image file='TreinoPlacas\39.jpg'>
+    <box top='379' left='628' width='509' height='211'/>
+  </image>
+  <image file='TreinoPlacas\4.jpg'>
+    <box top='270' left='597' width='418' height='158'/>
+  </image>
+  <image file='TreinoPlacas\40.jpg'>
+    <box top='450' left='629' width='360' height='208'/>
+  </image>
+  <image file='TreinoPlacas\46.jpg'>
+    <box top='326' left='470' width='314' height='256'/>
+  </image>
+  <image file='TreinoPlacas\47.jpg'>
+    <box top='372' left='350' width='424' height='158'/>
+  </image>
+  <image file='TreinoPlacas\48.jpg'>
+    <box top='269' left='490' width='400' height='140'/>
+  </image>
+  <image file='TreinoPlacas\49.jpg'>
+    <box top='155' left='305' width='298' height='232'/>
+  </image>
+  <image file='TreinoPlacas\5.jpg'>
+    <box top='349' left='432' width='465' height='171'/>
+  </image>
+  <image file='TreinoPlacas\50.jpg'>
+    <box top='248' left='369' width='252' height='191'/>
+  </image>
+  <image file='TreinoPlacas\51.jpg'>
+    <box top='354' left='443' width='213' height='156'/>
+  </image>
+  <image file='TreinoPlacas\52.jpg'>
+    <box top='262' left='539' width='268' height='163'/>
+  </image>
+  <image file='TreinoPlacas\53.jpg'>
+    <box top='289' left='591' width='317' height='184'/>
+  </image>
+  <image file='TreinoPlacas\54.jpg'>
+    <box top='425' left='463' width='385' height='132'/>
+  </image>
+  <image file='TreinoPlacas\55.jpg'>
+    <box top='473' left='714' width='411' height='101'/>
+  </image>
+  <image file='TreinoPlacas\56.jpg'>
+    <box top='515' left='536' width='302' height='112'/>
+  </image>
+</images>
+</dataset>
